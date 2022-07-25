@@ -1,0 +1,2 @@
+# EDA-on-IPL
+In this python notebook, analysis of IPL matches from 2008 to 2020 is done using python packages like pandas, matplotlib and seaborn. We have conducted an exploratory data analysis on two different datasets, for the purpose of determining what factors may have an impact on a teams chances of winning. The factors we chose to analyze are as follows: Win rate, number of games played, result of the pre-game coin toss, and the venue. We were also curious to know about additional factors, such as: highest performing players
